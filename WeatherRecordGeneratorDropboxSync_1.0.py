@@ -8,8 +8,8 @@ import dropbox
 from dropbox.files import WriteMode
 from dropbox.exceptions import ApiError, AuthError
 
-# Add OAuth2 access token here.
-TOKEN = 'IKq_oDB3Aa4AAAAAAABCSv7ai4L7NC1BtYv-AQ1P3UJT3WD3yHVSmGpZVAebefF2'
+# Add your OAuth2 access token here.
+TOKEN = '###########################'
 
 LOCAL_FILE = '/home/pi/Documents/Python Projects/\
 Weather-OWM/weather_record.csv'
